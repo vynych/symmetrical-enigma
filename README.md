@@ -1,1 +1,1 @@
-g# symmetrical-enigma
+ghg# symmetrical-enigma
